@@ -122,7 +122,7 @@ p,span,div,a{
 }
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~challenges-wrapper  */
 .challenges-wrapper{
-    background: url("bg-01.jpg");
+    background: url("../images/bg-01.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@ p,span,div,a{
 }
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~counter-box  */
 .counter-box{
-    background: linear-gradient(179deg, #00000059, #cccccc), url(bg-8.jpg);
+    background: linear-gradient(179deg, #00000059, #cccccc), url("../images/bg-8.jpg");
     background-size: cover;
     height: 80vh;
     width: 100%;
@@ -282,7 +282,7 @@ p,span,div,a{
 
 /* footer section start  */
 footer{
-    background: url(footer-img.png);
+    background: url("../images/footer-img.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
